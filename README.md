@@ -1,4 +1,4 @@
-# SampleSuperstore Data Analysis
+# Superstore Data Analysis
 
 This repository contains Python code for analyzing the SampleSuperstore dataset. The code performs various analyses and visualizations to gain insights into the overall performance, regional analysis, discount impact, product category analysis, and profitability of the sample superstore.
 
